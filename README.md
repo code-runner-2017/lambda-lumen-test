@@ -1,4 +1,4 @@
 # Run AWS Lambda with Lumen
 
-Based on the Stackery PHP Custom Layer modified to include mbstring, postgresql and mysql support.
+The full story here: https://link.medium.com/4bRFZ3kJqT 
 
